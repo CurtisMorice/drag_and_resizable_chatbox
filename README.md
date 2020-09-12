@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# drag_and_resizable_chatbox
+React made test for draggable chatbox.
+
+Using the awesome package bokuweb/react-rnd found here https://github.com/bokuweb/react-rnd#example-with-position-and-size
+This is just a test. ThanksBokuweb for a great package.
